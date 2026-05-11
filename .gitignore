@@ -1,0 +1,6 @@
+/target/
+/crates/gpui/
+/ExternalExamples/
+.codesight/
+.claude/
+CLAUDE.md
